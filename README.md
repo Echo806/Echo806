@@ -2,20 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Echo806&label=Profile views&color=0e75b6&style=flat" alt="Echo806" /> </p>
 
-- 🌱 I'm currently learning **- NixOS
+- 🌱 I'm currently learning
+- NixOS
 - Self-hosting
 - AI infrastructure
 - Networking
 - Agent tools
-- Backend Development**
+- Backend Development
 
 - 📫 How to reach me **zhengjr33@mail2.sysu.edu.cn**
 
-- ⚡ Fun fact **I love coding some siily codes
-Feel free to contact me :)
-**
+- ⚡**I love coding some siily codes and feel free to contact me :)**
 
-- 📝 I regularly write articles on **[https://echo806.github.io/](https://echo806.github.io/)**
+- 📝 I regularly write articles on **[my blog](https://echo806.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
