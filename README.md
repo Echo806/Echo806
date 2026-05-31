@@ -1,8 +1,6 @@
 # Hi 👋, I'm Echo806
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Echo806&label=Profile views&color=0e75b6&style=flat" alt="Echo806" /> </p>
-
-- 🌱 I'm currently learning
+🌱 I'm currently learning
 - NixOS
 - Self-hosting
 - AI infrastructure
@@ -12,7 +10,7 @@
 
 - 📫 How to reach me **zhengjr33@mail2.sysu.edu.cn**
 
-- ⚡**I love coding some siily codes and feel free to contact me :)**
+- ⚡**I love coding some silly codes and pls feel free to contact me :)**
 
 - 📝 I regularly write articles on **[my blog](https://echo806.github.io/)**
 
