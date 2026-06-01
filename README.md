@@ -19,7 +19,6 @@ I'm a Computer Science student who enjoys building strange but useful(maybe?) th
 ### 🌱 Currently Exploring
 
 * AI Agent workflows
-* Local LLM deployment
 * NixOS infrastructure management
 * Distributed networking
 
@@ -35,3 +34,6 @@ Email: [zhengjr33@mail2.sysu.edu.cn](mailto:zhengjr33@mail2.sysu.edu.cn)
 
 I enjoy spending hours automating tasks that only take a few minutes to do manually.
 
+I often spend hours building keyboard-driven workflows for tasks that could be done with a mouse in minutes.
+
+I spend more time configuring my tools than actually using them.
