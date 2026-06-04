@@ -24,7 +24,7 @@ I'm a Computer Science student who enjoys building strange but useful(maybe?) th
 
 ### 📝 Blog
 
-Visit [my blog](https：//echo806.github.io)
+Visit ！[my blog](https：//echo806.github.io)
 
 ### 📫 Contact
 
